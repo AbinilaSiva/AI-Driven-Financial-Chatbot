@@ -52,5 +52,7 @@ The application should now be running and accessible at http://localhost:8501
 A demonstration of the chatbot can be accessed by running the application as mentioned in the Set-Up section. Interact with the chatbot by inputting 
 your queries about stock prices, market analysis, and news updates.
 
+For a visual guide and overview of the chatbot's features and capabilities, check out the demo video:
 
+https://github.com/AbinilaSiva/AI-Driven-Financial-Chatbot/assets/80882447/d3fe66fd-9889-4d2f-969f-76b0fd8a0880
 
