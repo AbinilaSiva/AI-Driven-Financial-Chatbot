@@ -8,7 +8,7 @@ import yfinance as yf
 from openai import OpenAI
 
 # Read the API key from file
-api_key = 'insert your OPENAI_API Key'
+api_key = 'EWIDVvyxEvgUE2lzpFtVT3BlbkFJQCvz9K5eSS7UKGXqQUHH'
 
 # Set the API key
 openai.api_key = api_key
