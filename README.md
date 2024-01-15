@@ -21,7 +21,7 @@ cd AI-Driven-Financial-Chatbot
 ```
 3. Configure the API Key:
 
-* In main.py, locate the line 11: api_key (Note: Ensure you prepend 'sk-').
+* In main.py, locate the line 11: api_key (Note: Ensure to give your api key here ).
 * Example: api_key = 'sk-EWIDVvyxEvg...'
 
 4. Build the Docker Image:
